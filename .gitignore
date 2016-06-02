@@ -1,12 +1,3 @@
-.classpath
-.gitignore.swp
-.project
-.springBeans
-.tern-project
-.settings/
-build/
-target/
-
 *.class
 
 # Mobile Tools for Java (J2ME)
