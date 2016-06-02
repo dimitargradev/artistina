@@ -1,0 +1,8 @@
+.classpath
+.gitignore.swp
+.project
+.springBeans
+.tern-project
+.settings/
+build/
+target/
